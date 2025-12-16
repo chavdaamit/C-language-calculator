@@ -2,6 +2,10 @@
 
 This repository contains a **menu-driven calculator program in C**. The program performs basic arithmetic operations using **user-defined functions**, **switch-case**, and a **while loop**.
 
+<img width="1224" height="1030" alt="Screenshot 2025-12-15 173839" src="https://github.com/user-attachments/assets/9ecca197-1aab-4e2a-a34c-7d4d05c65278" />
+
+
+
 ---
 
 ## 📌 Program Features
